@@ -15,6 +15,9 @@ llew0williams@gmail.com
 ## Running the code
 This is a python workflow that requires the installation of some third-party libraries, some of them are older versions. We recommend that you use a virtual environment and the conda platform for installing and managing dependencies. We used Google colab to increase performance. We used Visual Studio code for editing, though that is not a requirement. Reproducing the results in the paper will require some experience with coding and running python scripts. No sample data has been provided. 
 
+## Data Set
+The dataset consisted of 2,945 jpgs that were taken between 2010 and 2020 in the proposed Geopark region
+
 ## Workflow
 ### Obtaining Crowdsourced image information from Flickr for a specic Geographic region
 Usage: 
