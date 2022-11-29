@@ -22,25 +22,27 @@ The dataset consisted of 2,945 jpgs that were taken between 2010 and 2020 in the
 ### Obtaining Crowdsourced image information from Flickr for a specic Geographic region
 Usage: 
 
+We prepared a python file to connect to Flickr and download metadata based on our search criteria. This file includes an algorithm to break up the area of interest into smaller bounding boxes to limit recordset size to stay within Flickr data limits. 
 ```
 flickr_crowdsource_data_download.py
 ```
 
 Example Usage:
 
-```
-```
+We ran this code in Visual Studio after setting up path info and credentials.
+
 ### Downloading Images from Flickr After Vetting
 Usage: 
 
+After trimming the data set manually we used the remaining data in a csv file with this script to download the actual .jpg images from Flickr. 
 ```
 download_jpg_from_flickr.py
 ```
 
 Example Usage:
 
-```
-```
+We ran this code in Visual Studio after setting up path info and credentials.
+
 ## Preparing a python environment with required libraries 
 ### Create a virtual environment using Anaconda
 
