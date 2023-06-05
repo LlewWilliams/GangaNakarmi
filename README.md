@@ -1,5 +1,5 @@
 # "A crowdsourced approach to documenting users’ preferences for landscape attributes in the proposed Appalachian Geopark Region in West Virginia" by Ganga Nakarmi
-The Open Access manuscript will be available here - > https://www.sciencedirect.com/science/article/pii/S2577444123000345
+The Open Access manuscript will be available here - > [https://www.sciencedirect.com/science/article/pii/S2577444123000345](https://doi.org/10.1016/j.ijgeop.2023.05.001)
 
 The following document contains a workflow to reproduce the results in the above paper. If you find these codes useful in your research, please cite!
 
